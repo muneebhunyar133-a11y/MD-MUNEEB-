@@ -1,2 +1,18 @@
-# MD-MUNEEB-
-𝙈̊𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝙐̊𝙉𝘽𝙀𝘼𝙏𝘼𝘽𝙇𝙀 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐔𝐍𝐄𝐄𝐁 𝐀𝐋𝐈 ⸎⦖⦆༺〘࿚︾࿙ 〙ᴖᴥᴖ𝐓𝐑𝐈𝐂𝐊𝐄𝐑⸙𝐌𝐀𝐒𝐓𝐄𝐑𝐌𝐈𝐍𝐃⸙𝐋𝐀𝐃𝐊𝐀𝐖 𝐍𝐎𝐍 𝐒𝐓𝐎𝐏 𝐓𝐘𝐏𝐄𝐑⸙𝐋𝐀𝐑𝐊𝐀 ⸙ ᴖᴥᴖ•𝓶𝓪𝓲 𝓫𝓪𝓼 𝓴𝓱𝓪𝔂𝓪𝓵𝓸 𝓶𝓮 𝓪𝓪𝓽𝒜  𝐌𝐔𝐍𝐄𝐄𝐁 𝐇𝐔𝐍 𝐘𝐀𝐖𝐑✓
+# MD-MUNEEB-BOT
+
+> MR PRINCE UNBEATABLE OFFICIAL MUNEEB ALI
+> TRICKER MASTERMIND
+
+### Deploy
+
+1. Fork this repo
+2. Go to Render.com / Heroku / Koyeb
+3. Connect GitHub repo
+4. Deploy
+
+### Pair
+
+After deploy, scan QR or use Pairing Code to connect WhatsApp.
+
+### Owner
+MUNEEB ALI
