@@ -1,0 +1,8 @@
+{
+  "name": "muneeb-bot",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^8.16.0"
+  }
+}
