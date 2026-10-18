@@ -11,3 +11,5 @@ async function startBot() {
     sock.ev.on('creds.update', saveCreds)
 }
 startBot()
+ 
+hack. 'Whatsapp Others'..
